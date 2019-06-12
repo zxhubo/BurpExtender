@@ -8,7 +8,7 @@ import java.io.PrintWriter;
  * @Author bobby
  * @Date 2019-06-12 00:30
  * @Version 1.00
- * @Description https://www.tuicool.com/articles/eU7vUjA
+ * @Description https://www.tuicool.com/articles/eU7vUjA;https://www.freebuf.com/articles/terminal/106673.html
  **/
 public class BurpExtender implements IBurpExtender, IMessageEditorTabFactory {
 
